@@ -3,6 +3,7 @@
 Hola, soy **Sara Olías Zapico**, analista de datos con formación en Matemáticas y un máster en Lógica, Computación e Inteligencia Artificial. Me apasiona el análisis de datos, la inteligencia artificial y la resolución de problemas en entornos complejos.  
 
 ## 🌟 Sobre mí  
+👀 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito del análisis de datos y data engineering, aplicando mis conocimientos en procesamiento de datos, machine learning y Big Data. 🚀
 - 📊 Experiencia en programación y análisis de datos en **Python, SQL y herramientas de Machine Learning**.  
 - 🏢 Experiencia en empresas tecnológicas como **Lynx Spa**, trabajando en resolución de incidencias y soporte a sistemas.  
 - 🤖 Conocimientos en **Big Data y Spark**, aplicados al procesamiento y análisis de datos a gran escala.  
