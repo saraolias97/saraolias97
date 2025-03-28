@@ -7,7 +7,11 @@ Hola, soy **Sara Olías Zapico**, analista de datos con formación en Matemátic
 - 📊 Experiencia en programación y análisis de datos en **Python, SQL y herramientas de Machine Learning**.  
 - 🏢 Experiencia en empresas tecnológicas como **Lynx Spa**, trabajando en resolución de incidencias y soporte a sistemas.  
 - 🤖 Conocimientos en **Big Data y Spark**, aplicados al procesamiento y análisis de datos a gran escala.  
-- 📚 Me gusta aprender continuamente y explorar nuevas tecnologías.  
+- 📚 Me gusta aprender continuamente y explorar nuevas tecnologías.
+
+🌐 Puedes conocer más sobre mí en mi porfolio web: https://saraolias.netlify.app<br><br>
+🔗 También puedes conectar conmigo a través de LinkedIn: https://www.linkedin.com/in/saraoz/</p>
+
 
 ## 🛠 Tecnologías que uso  
 <p align="center">
